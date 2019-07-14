@@ -1,0 +1,9 @@
+base91==1.0.1
+enum34==1.1.6
+pathlib==1.0.1
+Pillow==6.1.0
+pymaging==0.1
+pymaging-png==0.1
+pyzbar==0.1.8
+qrcode==6.1
+six==1.12.0
