@@ -3,7 +3,7 @@ import qrcode
 import random
 import string
 
-original_string = "===This is a walrus test==="
+original_string = "===This is some test message===="
 
 
 max_string_length = 507
