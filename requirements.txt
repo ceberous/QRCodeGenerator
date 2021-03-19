@@ -1,7 +1,7 @@
 base91==1.0.1
 enum34==1.1.6
 pathlib==1.0.1
-Pillow==6.1.0
+Pillow==8.1.1
 pymaging==0.1
 pymaging-png==0.1
 pyzbar==0.1.8
